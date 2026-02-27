@@ -23,14 +23,14 @@ I love **problem-solving**, learning new technologies, and making projects that 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulakshanChandraGhimire&show_icons=true&theme=dark&count_private=true&hide_border=false)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SulakshanChandraGhimire&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanChandraGhimire&layout=compact&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=dark&count_private=true&hide_border=false)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SulakshanCGhimire&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=dark&hide_border=false)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SulakshanChandraGhimire&theme=radical&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SulakshanCGhimire&theme=radical&no-bg=true)
 
 ---
 
@@ -39,19 +39,11 @@ I love **problem-solving**, learning new technologies, and making projects that 
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SulakshanChandraGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=SulakshanCGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
+## 💠 SCG Animated Logo
 <p align="center">
-  <svg width="100%" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="100%" height="120" fill="transparent"/>
-
-    <!-- SCG Text -->
-    <text x="-200" y="80" font-size="60" font-family="Arial Black" fill="#00FFCC">
-      SCG
-      <animate attributeName="x" from="-200" to="600" dur="5s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="assets/scg-animation.gif" alt="SCG Animation" width="600"/>
 </p>
