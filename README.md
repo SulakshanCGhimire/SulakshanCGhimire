@@ -23,16 +23,8 @@ I love **problem-solving**, learning new technologies, and making projects that 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=dark&count_private=true&hide_border=false)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SulakshanCGhimire&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=dark)
 
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SulakshanCGhimire&theme=radical&no-bg=true)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -44,7 +36,3 @@ I love **problem-solving**, learning new technologies, and making projects that 
 
 ---
 
-## 💠 SCG Animated Logo
-<p align="center">
-  <img src="assets/scg-animation.gif" alt="SCG Animation" width="600"/>
-</p>
