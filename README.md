@@ -7,7 +7,7 @@ I love **problem-solving**, learning new technologies, and making projects that 
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulakshan-chandra-ghimire) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sulucghimire@gmail.com)
 
 ---
 
@@ -25,7 +25,7 @@ I love **problem-solving**, learning new technologies, and making projects that 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=dark&count_private=true&hide_border=false)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SulakshanCGhimire&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=dark)
 
 ---
 
@@ -39,7 +39,8 @@ I love **problem-solving**, learning new technologies, and making projects that 
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SulakshanCGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👁️ Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=SulakshanCGhimire&color=0e75b6&style=flat)
 
 ---
 
