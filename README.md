@@ -27,7 +27,7 @@ I love **problem-solving**, learning new technologies, and making projects that 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SulakshanCGhimire&theme=tokyonight&hide_border=true" />
