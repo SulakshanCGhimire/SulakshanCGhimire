@@ -37,7 +37,6 @@ I love **problem-solving**, learning new technologies, and making projects that 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 
 ## 👁️ Visitor Count
