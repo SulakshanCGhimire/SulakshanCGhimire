@@ -5,7 +5,7 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Learning+Something+New+Every+Day;Future+Open+Source+Contributor;Preparing+for+GSoC+2026;Always+Curious+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Learning+Something+New+Every+Day;Future+Open+Source+Contributor;Always+Curious+🚀" />
 </p>
 
 ---
