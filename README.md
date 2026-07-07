@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sulakshan Chandra Ghimire</h1>
+
 <h3 align="center">
 Computer Engineering Student • Python Developer • Open Source Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Projects+with+Python;Learning+Every+Day;Open+Source+Contributor;Future+GSoC+2026+Applicant;Always+Curious+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Learning+Something+New+Every+Day;Future+Open+Source+Contributor;Preparing+for+GSoC+2026;Always+Curious+🚀" />
 </p>
 
 ---
@@ -13,28 +14,23 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 
 🎓 Third-year Computer Engineering student from Nepal.
 
-💻 Interested in
+I enjoy building software that is **efficient**, **practical**, and **fun to use**. My interests span software engineering, backend development, machine learning, and open source. I'm always exploring new technologies while strengthening my programming fundamentals.
 
-- Python Development
-- Software Engineering
-- Machine Learning
-- Data Analytics
-- Open Source
+### 🚀 Current Focus
 
-🌱 Currently learning
+- 🐍 Python Development
+- 🌐 Open Source Contributions
+- ⚙️ Backend Development with Flask
+- 🐳 Docker
+- 📊 Machine Learning
+- 🧩 Data Structures & Algorithms
 
-- Advanced Python
-- Docker
-- Flask
-- Git & GitHub
-- Software Architecture
+### 🎯 Goals for 2026
 
-🎯 2026 Goals
-
-- 🚀 Contribute to Open Source
-- ⭐ Prepare for GSoC 2026
+- 🚀 Contribute to major open-source projects
+- ⭐ Become a GSoC contributor
 - 📚 Solve 300+ DSA problems
-- 🏗️ Build impactful projects
+- 🏗️ Build impactful software projects
 
 ---
 
@@ -43,7 +39,7 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 <p align="left">
 
 <a href="https://www.linkedin.com/in/sulakshan-chandra-ghimire">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sulucghimire@gmail.com">
@@ -63,19 +59,19 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,go,lua"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,go,lua" />
 </p>
 
-### Web
+### Web & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,scss,flask"/>
+<img src="https://skillicons.dev/icons?i=html,css,scss,flask" />
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode,linux" />
 </p>
 
 ---
@@ -83,11 +79,11 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 # 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
+|----------|-------------|
 | 📊 Survey Analyzer | Analyze survey datasets using Python |
-| 🧠 CodeVisual | AI-powered code visualization platform |
-| 🤖 Machine Learning Projects | Collection of ML experiments |
-| 💡 Open Source Contributions | Contributions to community projects |
+| 🎨 CodeVisual | AI-powered platform for learning programming visually |
+| 🤖 Machine Learning Projects | Collection of ML experiments and datasets |
+| 🌐 Open Source | Contributions to community projects |
 
 ---
 
@@ -95,9 +91,9 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,7 +105,7 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -119,42 +115,39 @@ Computer Engineering Student • Python Developer • Open Source Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
+# 📚 Currently Learning
+
+- Advanced Python
+- Flask
+- Docker
+- REST APIs
+- Machine Learning
+- Open Source Development
+
+---
+
+# ✍️ Random Dev Quote
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SulakshanCGhimire&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 📚 Currently Exploring
-
-- 🐍 Advanced Python
-- ⚙️ Flask
-- 🐳 Docker
-- 🌐 Open Source Development
-- 🤖 Machine Learning
-
----
-
-# ✍️ Favorite Quote
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
->
-> — Harold Abelson
-
----
+# 👀 Visitor Count
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SulakshanCGhimire&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SulakshanCGhimire&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
+---
+
 <p align="center">
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ Thanks for visiting my profile! If you like my work, consider starring a repository or connecting with me.
 
 </p>
