@@ -1,56 +1,34 @@
 <h1 align="center">Hi 👋, I'm Sulakshan Chandra Ghimire</h1>
 
 <h3 align="center">
-Computer Engineering Student • Python Developer • Open Source Enthusiast
+Python Developer • Backend Engineer • AI & Data Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Learning+Something+New+Every+Day;Future+Open+Source+Contributor;Always+Curious+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+That+Solves+Real+Problems;Python+•+Flask+•+Machine+Learning;Backend+Development+%7C+Open+Source;Learning+by+Building;Always+Curious+🚀"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-🎓 Third-year Computer Engineering student from Nepal.
+I'm **Sulakshan Chandra Ghimire**, a Computer Engineering student from **Pokhara, Nepal 🇳🇵**.
 
-I enjoy building software that is **efficient**, **practical**, and **fun to use**. My interests span software engineering, backend development, machine learning, and open source. I'm always exploring new technologies while strengthening my programming fundamentals.
+I enjoy designing and building software that solves practical problems. My interests span **backend development**, **machine learning**, **data analysis**, and **developer tools**. I enjoy turning ideas into real applications while continuously improving my understanding of software engineering.
 
-### 🚀 Current Focus
+Outside of academics, I enjoy contributing to projects, participating in hackathons, solving algorithmic problems, and exploring new technologies.
+
+---
+
+# 🔭 Current Focus
 
 - 🐍 Python Development
-- 🌐 Open Source Contributions
-- ⚙️ Backend Development with Flask
-- 🐳 Docker
-- 📊 Machine Learning
-- 🧩 Data Structures & Algorithms
-
-### 🎯 Goals for 2026
-
-- 🚀 Contribute to major open-source projects
-- ⭐ Become a GSoC contributor
-- 📚 Solve 300+ DSA problems
-- 🏗️ Build impactful software projects
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sulakshan-chandra-ghimire">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sulucghimire@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://sulakshan.com.np">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
+- ⚙️ Backend Engineering with Flask
+- 🤖 Machine Learning
+- 📊 Data Analysis
+- 🌐 REST API Development
+- 🌱 Open Source
+- 📚 Data Structures & Algorithms
 
 ---
 
@@ -59,41 +37,81 @@ I enjoy building software that is **efficient**, **practical**, and **fun to use
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,go,lua" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
 </p>
 
-### Web & Frameworks
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,scss,flask" />
+<img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
-### Tools & Technologies
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" />
+</p>
+
+### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 📊 Survey Analyzer | Analyze survey datasets using Python |
-| 🎨 CodeVisual | AI-powered platform for learning programming visually |
-| 🤖 Machine Learning Projects | Collection of ML experiments and datasets |
-| 🌐 Open Source | Contributions to community projects |
+### 📊 Survey Analyzer
+
+Analyze survey datasets using Python with automated visualizations and report generation.
 
 ---
 
-# 📈 GitHub Stats
+### 🎨 CodeVisual
+
+An AI-assisted platform that helps learners understand programming through interactive code execution visualization.
+
+---
+
+### 💳 MiniPay
+
+A digital payment platform prototype inspired by modern fintech applications with a clean and scalable architecture.
+
+---
+
+### 🤖 Machine Learning Projects
+
+A collection of projects exploring classification, regression, computer vision, and natural language processing.
+
+---
+
+### 📚 Java DSA
+
+Well-documented implementations of Data Structures and Algorithms in Java.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -105,7 +123,7 @@ I enjoy building software that is **efficient**, **practical**, and **fun to use
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -115,39 +133,46 @@ I enjoy building software that is **efficient**, **practical**, and **fun to use
 
 ---
 
-# 📚 Currently Learning
+# 📌 Interests
 
-- Advanced Python
-- Flask
-- Docker
-- REST APIs
+- Backend Engineering
+- Artificial Intelligence
 - Machine Learning
-- Open Source Development
+- Data Analysis
+- Software Engineering
+- Developer Tools
+- Open Source Software
 
 ---
 
-# ✍️ Random Dev Quote
+# 🤝 Let's Connect
 
-<p align="center">
+<p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<a href="https://www.linkedin.com/in/sulakshan-chandra-ghimire">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sulucghimire@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://sulakshan.com.np">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 👀 Visitor Count
+<div align="center">
 
-<p align="center">
+### Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=SulakshanCGhimire&style=for-the-badge&color=0e75b6"/>
+I enjoy collaborating on interesting projects and learning from the open-source community.
 
-</p>
+If something here interests you, feel free to connect or explore my repositories.
 
----
+⭐ Happy Coding!
 
-<p align="center">
-
-⭐ Thanks for visiting my profile! If you like my work, consider starring a repository or connecting with me.
-
-</p>
+</div>
