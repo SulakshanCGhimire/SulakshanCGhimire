@@ -109,14 +109,6 @@ Well-documented implementations of Data Structures and Algorithms in Java.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SulakshanCGhimire&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanCGhimire&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=SulakshanCGhimire&theme=tokyonight&hide_border=true"/>
 
 </p>
