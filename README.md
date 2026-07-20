@@ -4,6 +4,7 @@
 Python Developer • Backend Engineer • AI & Data Enthusiast
 </h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+That+Solves+Real+Problems;Python+•+Flask+•+Machine+Learning;Backend+Development+%7C+Open+Source;Learning+by+Building;Always+Curious+🚀"/>
 </p>
